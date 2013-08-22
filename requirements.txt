@@ -1,0 +1,4 @@
+boto
+fabric
+docopt
+requests
